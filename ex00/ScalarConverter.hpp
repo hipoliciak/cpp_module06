@@ -3,21 +3,18 @@
 /*                                                        :::      ::::::::   */
 /*   ScalarConverter.hpp                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dmodrzej <dmodrzej@student.42.fr>          +#+  +:+       +#+        */
+/*   By: dmodrzej <dmodrzej@student.42warsaw.pl>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/21 12:08:53 by dmodrzej          #+#    #+#             */
-/*   Updated: 2025/01/21 12:26:34 by dmodrzej         ###   ########.fr       */
+/*   Updated: 2025/02/18 13:11:53 by dmodrzej         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #pragma once
 
 #include <iostream>
-#include <string>
 #include <iomanip>
 #include <cstdlib>
-#include <cctype>
-#include <cmath>
 #include <limits>
 
 class ScalarConverter

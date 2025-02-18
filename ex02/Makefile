@@ -6,13 +6,13 @@
 #    By: dmodrzej <dmodrzej@student.42warsaw.pl>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/01/19 16:16:45 by dmodrzej          #+#    #+#              #
-#    Updated: 2025/01/19 17:09:13 by dmodrzej         ###   ########.fr        #
+#    Updated: 2025/02/18 13:05:26 by dmodrzej         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-name = beaurocrat
+name = base
 
-sources = main.cpp Bureaucrat.cpp
+sources = main.cpp Base.cpp
 
 objects = $(sources:.cpp=.o)
 
